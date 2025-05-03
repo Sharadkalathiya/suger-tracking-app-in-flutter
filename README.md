@@ -13,6 +13,7 @@ A modern mobile application built with Flutter to help users track and manage th
 - [License](#-license)
 - [Contact](#-contact)
 - [Acknowledgments](#-acknowledgments)
+- [Screenshots](#-screenshots)
 
 ## ✨ Features
 
@@ -82,3 +83,14 @@ For support or inquiries, please open an issue in the repository.
 
 - Thanks to all contributors who have helped shape this project
 - Special thanks to the Flutter and open-source community for their invaluable resources
+
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome Screen](screenshots/Screenshot_20250503_211744.png)
+
+### Record Entry Screen
+![Record Entry Screen](screenshots/Screenshot_20250503_211812.png)
+
+### Record List Screen
+![Record List Screen](screenshots/Screenshot_20250503_212242.png)
